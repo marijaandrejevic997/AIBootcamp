@@ -1,0 +1,11 @@
+numpy<2.0
+nltk==3.9.1
+textblob==0.18.0.post0
+vaderSentiment==3.3.2
+gensim==4.3.3
+seaborn==0.13.2
+ipywidgets==8.1.5
+chardet
+ipykernel
+jupyterlab
+notebook
